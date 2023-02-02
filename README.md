@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am a beginner web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Since October 2022, my path in web development began at the GoIt courses, where I study to this day!
+I am a beginner web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Since October 2022, my path in web development began at the GoIT courses, where I study to this day!
 
 :telescope:  I've been actively studying the full stack
 
